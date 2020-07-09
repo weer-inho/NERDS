@@ -1,0 +1,7 @@
+<svg id="filter-button" xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+  <g id="filter-button-2" data-name="filter-button">
+    <path id="Shape" d="M10,10A10,10,0,0,1,0,0V2A10,10,0,0,0,20,2V0A10,10,0,0,1,10,10Z" transform="translate(0 10)" fill="#ababab" opacity="0.3"/>
+    <circle id="Oval" cx="10" cy="10" r="10" fill="#fff"/>
+    <circle id="Oval-2" data-name="Oval" cx="2" cy="2" r="2" transform="translate(8 8)" fill="#ababab"/>
+  </g>
+</svg>
